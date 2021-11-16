@@ -1,5 +1,5 @@
 # VtuberSituationVoice
-
+シチュエーション台本をTyranoScriptでノベル化
 
 # version
 - ティラノスタジオ
